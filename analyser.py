@@ -57,8 +57,8 @@ def file_selector(folder_path='.'):
 filename = st.file_uploader("Choose a TXT file", type="txt")
 
 #filename = file_selector()
-st.markdown("##### Kindly Confirm file name is <something>.txt before proceeding")
-st.write('You selected `%s`' % filename)
+#st.markdown("##### Kindly Confirm file name is <something>.txt before proceeding")
+#st.write('You selected `%s`' % filename)
 
 st.markdown("### Please wait for 30s for the Chat to be Analysed Completely. Starting from now you will find lots of interactive graphs. Move the slider whenever necessary to get better Visualisations")
 
