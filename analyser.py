@@ -47,12 +47,6 @@ st.markdown("# Upload file to be Analysed")
 st.markdown("##### How to? - Open the WhatsApp Chat/Group Chat you want to analyse. Click on the 3 dots -> Export -> Without Media. Save this file in your files folder or preferrably Desktop if using PC & Upload here. YOUR PHONE LANGUAGE MUST BE ENGLISH(UK) WHILE EXPORTING THE CHAT")
 st.markdown("###### *NO USER DATA IS TAKEN BY ME WHATSOEVER")
 
-'''
-def file_selector(folder_path='.'):
-    filenames = os.listdir(folder_path)
-    selected_filename = st.selectbox('Select txt file', filenames)
-    return os.path.join(folder_path, selected_filename)
-'''
 
 filename = st.file_uploader("Choose a TXT file", type="txt")
 
