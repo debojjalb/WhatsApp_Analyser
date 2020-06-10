@@ -34,11 +34,12 @@ st.markdown("# WhatsApp Chat Analyser")
 st.markdown("## Independent Project By Debojjal Bagchi during Summer 2020")
 st.markdown(" #### © Debojjal Bagchi")
 st.markdown(" #### Licensed under the [4-Clause Berkeley Software Distribution (BSD) License](https://github.com/debojjalb/WhatsApp_Analyser/blob/master/LICENSE), University of California")
+st.markdown(" #### [Click to view source code](https://github.com/debojjalb/WhatsApp_Analyser)")
 
 
 st.markdown("###### *This analyses only last 40,000 msgs. Works Best with Indiviual Chats & Small Group Chats. View on Desktop for Complete Experience. Built on Python Using Pandas, Streamlit & Plotly")
 
-st.markdown("#### Send me your feedback, Ways to improve or any other suggestions at debojjalb@gmail.com")
+st.markdown("#### Send me your feedback, Ways to improve or any other suggestions at <debojjalb@gmail.com>")
 
 import warnings
 warnings.filterwarnings("ignore")
