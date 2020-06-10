@@ -35,6 +35,8 @@ st.markdown("## Independent Project By Debojjal Bagchi during Summer 2020")
 st.markdown(" #### © Debojjal Bagchi")
 st.markdown(" #### Licensed under the [4-Clause Berkeley Software Distribution (BSD) License](https://github.com/debojjalb/WhatsApp_Analyser/blob/master/LICENSE), University of California")
 st.markdown(" #### [Click to view source code](https://github.com/debojjalb/WhatsApp_Analyser)")
+st.markdown("#### [Click here to give your feedback](https://bit.ly/2AMcvvc)")
+
 
 
 st.markdown("###### *This analyses only last 40,000 msgs. Works Best with Indiviual Chats & Small Group Chats. View on Desktop for Complete Experience. Built on Python Using Pandas, Streamlit & Plotly")
@@ -413,8 +415,8 @@ st.markdown(" # 10. Feedback")
 
 st.markdown("## Plese provide your feedback")
 
-st.markdown("### Visit Left Side Panel Please")
-
+st.markdown("#### Visit Left Side Panel for Developer Contact information")
+st.markdown("#### [Click here to give your feedback](https://bit.ly/2AMcvvc)")
 st.markdown(" ##### © Debojjal Bagchi")
 st.markdown(" ##### Licensed under the [4-Clause Berkeley Software Distribution (BSD) License](https://github.com/debojjalb/WhatsApp_Analyser/blob/master/LICENSE), University of California")
 
