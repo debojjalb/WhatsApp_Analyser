@@ -11,7 +11,7 @@ Built on Python with Streamlit, Pandas, Plotly & RandomForestRegressor
 
 ## Contributers
 
-- Debojjal Bagchi <debojjalb@gmail.com
+- Debojjal Bagchi <debojjalb@gmail.com>
 
 ---
 
