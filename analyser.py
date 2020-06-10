@@ -126,8 +126,8 @@ media = media['counts']
 
 st.markdown('# 1. Some Introductory Analysis ')
 
-st.markdown("### 1. Total Number of Chats : %i" %(days))
-st.markdown("### 2. Number of Days Chatted : %i" %(msgs))
+st.markdown("### 1. Total Number of Chats : %i" %(msgs))
+st.markdown("### 2. Number of Days Chatted : %i" %(days))
 st.markdown('### 3. Average Number of Chats per Day: %i' %(average))
 st.markdown('### 4. Total Number of Words : %i'%(words))
 st.markdown('### 5. Total Number of Letters : %i'%(letters))
