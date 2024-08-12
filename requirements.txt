@@ -1,5 +1,5 @@
 pydeck==0.4.0b1
-streamlit==0.61.0
+streamlit==1.37.0
 seaborn==0.10.0
 plotly==4.8.1
 pandas==1.0.1
